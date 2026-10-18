@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.minmap.mirror",
+      "sha256_cert_fingerprints": ["5E:D5:79:F2:53:C8:B0:A7:77:2C:C9:F5:EC:46:CB:C4:6C:93:3B:DB:04:E3:8F:47:59:57:E6:61:ED:04:19:1F"]
+    }
+  }
+]
